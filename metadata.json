@@ -1,0 +1,6 @@
+{
+  "name": "My Story",
+  "description": "An editorial story anthology and original soundtrack studio where chapters meet custom Lyria compositions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
